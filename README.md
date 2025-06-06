@@ -2,6 +2,9 @@
 
 A **modern, secure, and full-stack** comment voting system built with **React, Node.js, and MongoDB**. This intuitive platform allows users to **post, vote, and engage** with comments dynamically. Optimized for performance and accessibility, it ensures a seamless user experience with **real-time voting feedback** and smart sorting.  
 
+# **[Intro Video](https://drive.google.com/file/d/19QFso_iJXFziOqsrBYJtroSnafxlP_cP/view?usp=drive_link)**
+# **[Demo Video](https://drive.google.com/file/d/1791CsY66BgLH4Tg3AwcgOq7rmH4bPpsI/view?usp=sharing)**
+
 ## 🚀 Features  
 
 ✅ **User Authentication** – Signup, login, logout, and session refresh  
